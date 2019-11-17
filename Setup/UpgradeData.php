@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Nevcom\About\Setup;
+namespace Nevcomp\About\Setup;
 
 
 use Magento\Framework\Setup\ModuleContextInterface;
